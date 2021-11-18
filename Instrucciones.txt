@@ -1,0 +1,15 @@
+##### Instrucciones #####
+
+1 - Entrar al directorio Setup - MinecraftCC_Txt
+2 - Entrar al directorio Debug/debug
+3 - Ejecutar setup.exe
+4 - Ir al directoio C:\Program Files(x86) <o Program Files(x64)>\MinecraftCC_Txt\Setup - MinecraftCC_Txt
+5 - Click derecho en el archivo MinecraftCC_Txt.exe - Enviar a... - Escritorio
+7 - Click derecho en el acceso directo del escritorio - Propiedades - Cambiar icono - Examinar
+8 - C:\Program Files(x86)\MinecraftCC_Txt\Setup - MinecraftCC_Txt
+9 - Doble click en iconoJpgMcCCTxt.ico
+10 - ¡Y ya estaría perfecto para ser utilizado!
+
+##### Recordar que este sistema se encuentra en fase de pruebas #####
+
+##### En el futuro la mitad de los pasos de esta lista los hará un archivo .bat #####

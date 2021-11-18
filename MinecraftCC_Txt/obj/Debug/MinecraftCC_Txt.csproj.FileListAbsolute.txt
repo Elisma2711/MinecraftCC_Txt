@@ -1,0 +1,14 @@
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\bin\Debug\MinecraftCC_Txt.exe.config
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\bin\Debug\MinecraftCC_Txt.exe
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\bin\Debug\MinecraftCC_Txt.pdb
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\bin\Debug\MySql.Data.dll
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.csprojAssemblyReference.cache
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.Form1.resources
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.Properties.Resources.resources
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.csproj.GenerateResource.cache
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.csproj.CopyComplete
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.exe
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.pdb
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Ismael\source\repos\MinecraftCC_Txt\MinecraftCC_Txt\obj\Debug\MinecraftCC_Txt.csproj.ResolveComReference.cache

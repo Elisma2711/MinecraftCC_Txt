@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftCC_Txt", "MinecraftCC_Txt\MinecraftCC_Txt.csproj", "{A20F66CB-8E80-4C35-85C9-728D6E050A5A}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup - MinecraftCC_Txt", "Setup - MinecraftCC_Txt\Setup - MinecraftCC_Txt.vdproj", "{842F5CF8-6A86-4929-97EA-48690323EFF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{A20F66CB-8E80-4C35-85C9-728D6E050A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A20F66CB-8E80-4C35-85C9-728D6E050A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A20F66CB-8E80-4C35-85C9-728D6E050A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842F5CF8-6A86-4929-97EA-48690323EFF4}.Debug|Any CPU.ActiveCfg = Debug
+		{842F5CF8-6A86-4929-97EA-48690323EFF4}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
